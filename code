@@ -1,0 +1,13 @@
+/*calss secure software
+Name:Shamma almazrouei
+Id:202122016*\
+
+
+public class Prctice {
+	public static void main(String[] args) {
+	    int x = 1 , y= 2;
+	    String i = "My name is Shamma and i am taking secure course with you :) ";
+		System.out.println(x+"\t"+"Hello Dr saed\n"+y+"\t"+i);
+	
+}
+}
